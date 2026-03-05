@@ -2,3 +2,4 @@
 # For Mrs.F
 Below is the commit in question, before i answered any questions
 https://github.com/scottejin/Data-Visualisation/blob/9d5a32de05ecd834d90327087889a48ef0c8bfcd/visualization%20(1).ipynb
+<img width="1004" height="788" alt="Screenshot 2026-03-05 at 6 50 34 pm" src="https://github.com/user-attachments/assets/920e2af2-a471-4023-b2f6-5220fd7f4bc7" />
